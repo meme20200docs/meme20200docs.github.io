@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-
+<a href="https://discord.gg/c9xxRF7eFb"><img src="https://img.shields.io/discord/783309924171644938?color=5865F2&logo=discord&logoColor=white" alt="Discord" /></a>
 meme20200 is a company or a organization that tries to succed to be popular and it has started in minehut which made it. meme20200 is also a API which collects data username and uuid from it's minecraft server. It's also a discord and a branch server and it has it's own website [https://git20200.gq](https://git20200.gq) this data was been given by the creator of meme20200.
 ## What is meme20200?
 --- 
@@ -14,8 +13,3 @@ meme20200 minehut has started this whole community without it you wouldn't even 
 
 ```
 
-=======
-<a href="https://discord.gg/c9xxRF7eFb"><img src="https://img.shields.io/discord/783309924171644938?color=5865F2&logo=discord&logoColor=white" alt="Discord" /></a>
-# What is meme20200?
-meme20200 is a community full of creations which some are publicly called open-source and some are privately called closed-source like our mine20200.py it's closed-source but an open-source like our API on [our github](https://github.com/meme20200/api)
->>>>>>> 4be5307d5a6e12e4c9da7bced4aa61181b129310
